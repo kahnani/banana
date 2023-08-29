@@ -72,3 +72,36 @@ while True:
           break
     else:
         print("Invalid Input")
+
+
+
+
+
+# def calculate_hemi(r: int):
+#     return (2 * 3.14 * r)
+    
+# def calculate_cube(a: int):
+#     return (4 * a ** 2)
+    
+#     while True:
+    
+#         calculation = input("Enter Calculation: Hemisphere/Cube")
+    
+#         if calculation  == "Hemisphere":
+            
+#             return calculate_hemi
+        
+#         elif():
+            
+#             if calculation == "Cube":
+                
+                
+#                 return("calculate_cube")
+            
+    
+        
+#         else:
+        
+#             print("Okay Cool")
+    
+    
